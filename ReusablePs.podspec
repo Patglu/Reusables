@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = ''
+  s.description      = 'this will contain all the reusable compenents created and some intrucitons on how to use them'
 
   s.homepage         = 'https://github.com/Patglu/ReusablePs'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
