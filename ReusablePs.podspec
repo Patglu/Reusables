@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = ''
 
-  s.homepage         = 'https://github.com/113903905/ReusablePs'
+  s.homepage         = 'https://github.com/Patglu/ReusablePs'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '113903905' => '113903905+Patglu@users.noreply.github.com' }
