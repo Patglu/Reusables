@@ -1,0 +1,16 @@
+PODS:
+  - ReusablePs (0.1.0)
+
+DEPENDENCIES:
+  - ReusablePs (from `../`)
+
+EXTERNAL SOURCES:
+  ReusablePs:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReusablePs: 50a5c32103345db6691094cd14f4b8967a12a7cd
+
+PODFILE CHECKSUM: c4084cb7859be87b9036ef5f218f0768df25daf5
+
+COCOAPODS: 1.10.1
